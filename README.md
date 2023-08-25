@@ -28,7 +28,7 @@
 
 ## 🌐 **Featured Repositories:**
 - [Smart Contract - Staking](https://github.com/jingkang0822/dapp-stake-farming/tree/main/smartcontract)
-- [Broken Dapp Frontend - Demo](https://jingkang0822.github.io/Dapp-Stake-Farming/)
+- [Dapp Frontend - Demo](https://jingkang0822.github.io/dapp-stake-farming/)
 - [On-chain Crawler](https://github.com/jingkang0822/eth-chain-crawler)
 
 
