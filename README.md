@@ -4,9 +4,21 @@
 
 **Elwin** is a seasoned Smart Contract (EVM) Developer and Back-end Engineer with a profound passion for the transformative power of blockchain technology. With over 8+ years of robust programming experience, Elwin has carved a niche for himself in the rapidly-evolving digital landscape, championing transparency, immutability, and decentralization.
 
+## 🎯 **LeapFi Quick Intro**:
+LeapFi, the gateway of DeFi, leverages deep quantitative trading expertise to deliver a diverse financial trading platform. Innovative vaults with strategic leverage will follow in early 2024 for enhanced returns. Our Alpha testnet went live in mid-July 2023.
+
+LeapFi's mission is to enable easy access to applying investment strategies in DeFi. Join us in shaping the future of DeFi today!
+
+🔗 **Explore LeapFi**:
+- **Landing Page**: [leapfi.io](https://www.leapfi.io/)
+- **DApp**: [https://app.leapfi.io/](https://app.leapfi.io/)
+- **DApp demo**: [https://youtu.be/oqjj341_VGU?si=CwJTeVUk7tphXvEe](https://youtu.be/oqjj341_VGU?si=CwJTeVUk7tphXvEe)
+- **Link3 Profile**: [https://link3.to/leapfi](https://link3.to/leapfi)
+
+
 ## Snapshot of Elwin's Journey:
 
-:star: Proud **Co-founder & CTO** of [**LeapFi**](https://www.leapfi.io/), pioneering cutting-edge solutions in the blockchain domain.
+:star: Proud **Co-founder & CTO** of [**LeapFi**](https://www.leapfi.io/), pioneering cutting-edge solutions in the blockchain's DeFi domain.
 
 :rocket: Deep expertise in Smart Contracts, DeFi, GameFi, and AMM ecosystems, wielding tools and languages such as **Solidity**, **Geth**, **Hardhat**, **Foundry**, **Subgraph**, and **Slither**.
 
