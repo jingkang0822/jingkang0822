@@ -15,6 +15,8 @@ LeapFi's mission is to enable easy access to applying investment strategies in D
 - **DApp demo**: [https://youtu.be/oqjj341_VGU?si=CwJTeVUk7tphXvEe](https://youtu.be/oqjj341_VGU?si=CwJTeVUk7tphXvEe)
 - **Link3 Profile**: [https://link3.to/leapfi](https://link3.to/leapfi)
 
+:trophy: LeapFi has been selected for the [**Appworks #27 Startup Accelerator**](https://appworks.tw/accelerator/)!
+
 
 ## Snapshot of Elwin's Journey:
 
