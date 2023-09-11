@@ -4,6 +4,8 @@
 
 **Elwin** is a seasoned Smart Contract (EVM) Developer and Back-end Engineer with a profound passion for the transformative power of blockchain technology. With over 8+ years of robust programming experience, Elwin has carved a niche for himself in the rapidly-evolving digital landscape, championing transparency, immutability, and decentralization.
 
+📝 Read more about my thoughts and insights on [Medium](https://medium.com/@Jingkangchua).
+
 ## 🎯 **LeapFi Quick Intro**:
 LeapFi, the gateway of DeFi, leverages deep quantitative trading expertise to deliver a diverse financial trading platform. Innovative vaults with strategic leverage will follow in early 2024 for enhanced returns. Our Alpha testnet went live in mid-July 2023.
 
