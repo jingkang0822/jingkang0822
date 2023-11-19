@@ -2,22 +2,24 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=jingkang0822)
 
-**Elwin** is a seasoned Smart Contract (EVM) Developer and Back-end Engineer with a profound passion for the transformative power of blockchain technology. With over 8+ years of robust programming experience, Elwin has carved a niche for himself in the rapidly-evolving digital landscape, championing transparency, immutability, and decentralization.
+**Elwin** is a seasoned Smart Contract (EVM) Developer and Back-end Engineer with a profound passion for blockchain technology. With over 8+ years of robust programming experience, Elwin has a strong background in blockchain, specializing in the transformative power of transparency, immutability, and decentralization.
 
-📝 Read more about my thoughts and insights on [Medium](https://medium.com/@Jingkangchua).
+🌟 **New Beginnings at OKX**:
+Elwin is now embarking on an exciting new journey as a Smart Contract Developer at OKX, a leading global digital asset exchange. At OKX, Elwin is contributing to the development of cutting-edge smart contract solutions, reinforcing OKX's commitment to innovation and excellence in the blockchain space.
 
-## 🎯 **LeapFi Quick Intro**:
-LeapFi, the gateway of DeFi, leverages deep quantitative trading expertise to deliver a diverse financial trading platform. Innovative vaults with strategic leverage will follow in early 2024 for enhanced returns. Our Alpha testnet went live in mid-July 2023.
+📝 Discover more about my perspectives and insights on [Medium](https://medium.com/@Jingkangchua).
 
-LeapFi's mission is to enable easy access to applying investment strategies in DeFi. Join us in shaping the future of DeFi today!
+## 🎯 **LeapFi Experience**:
+As Co-founder & CTO at LeapFi, I was instrumental in developing the DeFi platform, blending my expertise in quantitative trading with blockchain technology to democratize access to DeFi investment strategies.
 
-🔗 **Explore LeapFi**:
-- **Landing Page**: [leapfi.io](https://www.leapfi.io/)
+🔗 **LeapFi Highlights**:
+- **Website**: [leapfi.io](https://www.leapfi.io/)
 - **DApp**: [https://app.leapfi.io/](https://app.leapfi.io/)
 - **DApp demo**: [https://youtu.be/oqjj341_VGU?si=CwJTeVUk7tphXvEe](https://youtu.be/oqjj341_VGU?si=CwJTeVUk7tphXvEe)
 - **Link3 Profile**: [https://link3.to/leapfi](https://link3.to/leapfi)
 
-:trophy: LeapFi has been selected for the [**Appworks #27 Startup Accelerator**](https://appworks.tw/accelerator/)!
+:trophy: **Accolade**: LeapFi was selected for the [**Appworks #27 Startup Accelerator**](https://appworks.tw/accelerator/)!
+
 
 
 ## Snapshot of Elwin's Journey:
