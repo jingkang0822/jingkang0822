@@ -3,6 +3,7 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=jingkang0822)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Elwin_Chua-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elwin-chua-44090b97/)
+![Location](https://img.shields.io/badge/📍_Based_in-Singapore_🇸🇬-informational?style=flat&color=555)
 
 **Elwin** is an **AI × Crypto engineer** working on the connective layer between AI agents and real systems — on-chain agent settlement, account abstraction, and secure AI-to-data integration. With **nearly a decade** of engineering across smart contracts, quant trading platforms, and backend infrastructure, Elwin builds transparent, secure, and permissionless systems for the emerging **agent economy**.
 
