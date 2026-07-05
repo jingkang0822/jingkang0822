@@ -1,82 +1,41 @@
-# Dive into Elwin's Digital Diary 📖
+# Elwin Chua — AI × Crypto Engineer
+### Agent infrastructure & security · building the connective layer between AI agents and real systems
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=jingkang0822)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Elwin_Chua-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elwin-chua-44090b97/)
 
-**Elwin** is a seasoned Smart Contract (EVM) Developer and Back-end Engineer with a profound passion for blockchain technology. With over 8+ years of robust programming experience, Elwin has a strong background in blockchain, specializing in the transformative power of transparency, immutability, and decentralization.
+**Elwin** is an **AI × Crypto engineer** working on the connective layer between AI agents and real systems — on-chain agent settlement, account abstraction, and secure AI-to-data integration. With **nearly a decade** of engineering across smart contracts, quant trading platforms, and backend infrastructure, Elwin builds transparent, secure, and permissionless systems for the emerging **agent economy**.
 
-🌟 **New Beginnings at OKX**:
-Elwin is now embarking on an exciting new journey as a Smart Contract Developer at OKX, a leading global digital asset exchange. At OKX, Elwin is contributing to the development of cutting-edge smart contract solutions, reinforcing OKX's commitment to innovation and excellence in the blockchain space.
+🌟 **At OKX (Singapore)**:
+- 🤖 Built an on-chain **Agent Task Marketplace** on **X Layer** (EIP-8183) — a **9-state settlement machine** where the hard part was proving correct transitions across every combination, including illicit-asset freezing and dispute arbitration. **Drove correctness with AI**: generated exhaustive state-transition boundary tests and automated much of the security audit — shipped with only **1 medium finding**.
+- 🤖 Established an **AI-first developer workflow** (Claude Code + custom agents), onboarding engineers onto new chain modules in weeks.
+- 🤖 Led the **security & compliance design** to connect an internal AI development platform to enterprise data via **MCP** — the real constraint was governing what data an AI/agent layer may access under a regulated exchange's controls; aligned **4 functions** (product, compliance, backend, service-ops) and drove approvals end-to-end.
+- Architected **ERC-4337 account-abstraction** contracts (Paymaster, EIP-7702) deployed across **10+ EVM chains** — CertiK audited, zero critical/high findings.
+- Built OKX's **first Solana AA program** and authored **sRFC-30** (first Solana Account Abstraction standard proposal); presented at **Solana Breakpoint**.
+- 🛡️ **Co-discovered an ERC-4337 EntryPoint flaw others had missed** — spotted that the **gas-penalty accounting let a malicious bundler grief Token Paymasters** (with V. Lu & L. Lim); [public disclosure](https://ethereum-magicians.org/t/erc-4337-account-abstraction-via-entry-point-contract-specification/7160/140), mitigated upstream in EntryPoint v0.9.
+- 🏆 **Top-tier performance rating** at OKX — **top ~10%** of engineers.
 
-📝 Discover more about my perspectives and insights on [Medium](https://medium.com/@Jingkangchua).
+## 🎯 Earlier — Co-founder & CTO, LeapFi
+Co-founded and led engineering at **LeapFi**, a DeFi platform blending quantitative trading with on-chain strategy — selected for the [**AppWorks #27 Startup Accelerator**](https://appworks.tw/accelerator/).
 
-## 🎯 **LeapFi Experience**:
-As Co-founder & CTO at LeapFi, I was instrumental in developing the DeFi platform, blending my expertise in quantitative trading with blockchain technology to democratize access to DeFi investment strategies.
+🔗 [Website](https://www.leapfi.io/) · [DApp](https://app.leapfi.io/) · [Demo](https://youtu.be/oqjj341_VGU?si=CwJTeVUk7tphXvEe) · [Link3](https://link3.to/leapfi)
 
-🔗 **LeapFi Highlights**:
-- **Website**: [leapfi.io](https://www.leapfi.io/)
-- **DApp**: [https://app.leapfi.io/](https://app.leapfi.io/)
-- **DApp demo**: [https://youtu.be/oqjj341_VGU?si=CwJTeVUk7tphXvEe](https://youtu.be/oqjj341_VGU?si=CwJTeVUk7tphXvEe)
-- **Link3 Profile**: [https://link3.to/leapfi](https://link3.to/leapfi)
+## 🧭 Background
+:rocket: **DeFi & AMM** — integrated industry-leading protocols like **Uniswap v3** and **GMX**; strong grasp of AMM design.
 
-:trophy: **Accolade**: LeapFi was selected for the [**Appworks #27 Startup Accelerator**](https://appworks.tw/accelerator/)!
+:rocket: **Quant & backend foundations** — dynamic trading models, market-data mining, and production backends (C#, Python, MongoDB, sklearn/keras, Redis, CI/CD).
 
-
-
-## Snapshot of Elwin's Journey:
-
-:star: Proud **Co-founder & CTO** of [**LeapFi**](https://www.leapfi.io/), pioneering cutting-edge solutions in the blockchain's DeFi domain.
-
-:rocket: Deep expertise in Smart Contracts, DeFi, GameFi, and AMM ecosystems, wielding tools and languages such as **Solidity**, **Geth**, **Hardhat**, **Foundry**, **Subgraph**, and **Slither**.
-
-:rocket: **8+ years** of continuous exploration in programming, venturing into blockchain, quants trading platforms, and backend architectures.
-
-:rocket: An astute understanding of **DeFi & AMM**; well-versed in integrating industry-leading protocols like **Uniswap v3**, **Gmx**.
-
-:rocket: Skillful crafting and precision-optimizing of smart contracts, underpinned by a commitment to security and efficiency.
-
-:rocket: Proficiency in backend systems, leveraging tools and languages such as C#, Oracle, Redis, and adhering to best practices like Agile development, Scrum, Git flow, and CICD.
-
-:rocket: **Quant prowess**, from the development of dynamic trading models to diving deep into market data, leveraging tools like C#, Python, MongoDB, sklearn, keras, and more.
-
-:hearts: A diverse background in Quants Trading Platforms, harnessing the power of **C#, Python, MSSql, and MongoDB**.
-
-:desktop_computer: Stellar track record with roles such as Smart Contract Developer at **GameFi (HappyTomato)** and **DeFi Protocol (Teahouse)**, Backend Engineer at **Xuenn**, Quant Developer at **APEX International Financial Engineering Co**, and Quant Researcher at **VICI Holdings**.
-
-:notebook_with_decorative_cover: A visionary always at the frontier of blockchain innovation, continually seeking ways to reshape the world with decentralized technologies.
-
-## 🌐 **Featured Repositories:**
-- [Smart Contract - Staking](https://github.com/jingkang0822/dapp-stake-farming/tree/main/smartcontract)
-- [Dapp Frontend - Demo](https://jingkang0822.github.io/dapp-stake-farming/)
-- [On-chain Crawler](https://github.com/jingkang0822/eth-chain-crawler)
-
-
-
-<h2> Code Chef: Serving Hot Programs <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-
+## 🛠️ Tech Stack
 
 <div>
   <img align="right" alt="GIF" src="https://github.com/jingkang0822/jingkang0822/blob/main/raw/1_IRGHmiGsa16stedQvIaZfw.gif?raw=true" width="420" height="300" style="margin-top: 0px;" />
 </div>
 
-**Programming Languages and Tools:**
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ethereum/ethereum.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bitcoin/bitcoin.png"></code>
-
-
-💗 **My Favorites Techs:**
-
+![](https://img.shields.io/badge/AI-Claude_Code-informational?style=flat&logo=anthropic&logoColor=white&color=6f42c1)
+![](https://img.shields.io/badge/Protocol-MCP-informational?style=flat&logo=modelcontextprotocol&logoColor=white&color=6f42c1)
 ![](https://img.shields.io/badge/Language-Solidity-informational?style=flat&logo=solidity&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Language-Rust_(Solana)-informational?style=flat&logo=rust&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Language-Move_(Sui)-informational?style=flat&logo=sui&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Tool-Hardhat-informational?style=flat&logo=hardhat&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Tool-Foundry-informational?style=flat&logo=foundry&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Tool-Subgraph-informational?style=flat&logo=thegraph&logoColor=white&color=3bac3a)
